@@ -1,4 +1,7 @@
 /* your code here */
+*{
+	font-family: "Quicksand";
+}
 footer{
 	background:black;
 	width: 100%;
@@ -24,6 +27,7 @@ footer{
 }
 
 .media-icons{
+	display: flex;
 	justify-content: flex-end;
 }
 .media-icons a i{
